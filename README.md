@@ -1,2 +1,2 @@
 # data-science-things
-Trying to learn data science from books, 
+Trying to learn data science from books.
